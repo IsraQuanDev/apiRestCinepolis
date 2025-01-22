@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 # apiRestCinepolis
 =======
 # API REST Cinepolis
