@@ -1,0 +1,7 @@
+# Ignorar archivos y directorios del sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.swp
